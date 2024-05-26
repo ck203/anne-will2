@@ -1,0 +1,7 @@
+from,to,weight,relation
+NS,NH,3,10
+NS,ES,1,10
+NH,NS,3,10
+ES,NS,1,10
+ES,LK,2,10
+LK,ES,2,10
